@@ -1,0 +1,1 @@
+/home/michellgaby/dwm/config.h
